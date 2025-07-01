@@ -4,11 +4,12 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android_app",
+      "namespace": "com.bzbs.bees_benefit",
       "package_name": "com.bzbs.bees_benefit",
       "sha256_cert_fingerprints": [
         "E1:24:51:1E:C9:26:49:BB:BD:32:8F:D5:C3:8D:A1:79:62:D0:DF:6D:2F:E5:87:50:20:8F:68:0D:FB:57:8A:5B",
-        "84:89:8D:6A:C4:17:E1:BB:5C:AC:05:25:31:DD:DC:6E:57:55:CD:C5:34:15:76:60:D1:4B:DD:93:04:32:00:57"
+        "84:89:8D:6A:C4:17:E1:BB:5C:AC:05:25:31:DD:DC:6E:57:55:CD:C5:34:15:76:60:D1:4B:DD:93:04:32:00:57",
+        "B0:AC:CF:B8:57:9B:BF:5E:A1:DA:94:31:8C:8D:85:62:94:64:33:F5:0D:1A:43:90:88:29:91:7B:78:E4:A4:D8"
       ]
     }
   },
